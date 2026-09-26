@@ -29,6 +29,7 @@ projects/
 | [Impossible Cube](./projects/impossible-cube) | A 3D-printed model of Escher's impossible cube illusion, my first Fusion 360 project. | [STL](./projects/impossible-cube/impossible-cube.stl) |
 <!-- PROJECTS:END -->
 
+
 ---
 
 ## 🛠️ Tools
