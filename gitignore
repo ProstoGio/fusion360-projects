@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
+*.py
 
 # OS junk
 .DS_Store
