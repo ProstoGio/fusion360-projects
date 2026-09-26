@@ -8,14 +8,15 @@ Each project folder includes the exported model files, renders or photos, and a 
 
 ## 📁 Structure
 
-Each project lives in its own folder:
+Each project lives in its own folder under `projects/`:
 
 ```
-project-name/
-├── model.stl        → interactive preview (renders inline on GitHub)
-├── model.step        → editable, tool-agnostic CAD format
-├── render.png         → screenshots or turntable renders
-└── README.md         → design notes, techniques, and print details
+projects/
+└── project-name/
+    ├── model.stl        → interactive preview (renders inline on GitHub)
+    ├── model.step        → editable, tool-agnostic CAD format
+    ├── render.png         → screenshots or turntable renders
+    └── README.md         → design notes, techniques, and print details
 ```
 
 ---
@@ -24,7 +25,7 @@ project-name/
 
 | Project | Description | Preview |
 |---|---|---|
-| [Impossible Cube](./impossible-cube) | A 3D-printed model of Escher's impossible cube illusion, my first Fusion 360 project | [STL](./impossible-cube/impossible-cube.stl) |
+| [Impossible Cube](./projects/impossible-cube) | A 3D-printed model of Escher's impossible cube illusion, my first Fusion 360 project | [STL](./projects/impossible-cube/impossible-cube.stl) |
 
 *(More projects added as they're completed.)*
 
