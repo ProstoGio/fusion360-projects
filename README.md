@@ -27,6 +27,7 @@ projects/
 | Project | Description | Preview |
 |---|---|---|
 | [Impossible Cube](./projects/impossible-cube) | A 3D-printed model of Escher's impossible cube illusion, my first Fusion 360 project. | [STL](./projects/impossible-cube/impossible-cube.stl) |
+| [iPhone 16 Case](./projects/iphone-16-case) | A 3D-printable protective case designed for the iPhone 16 using Autodesk Fusion 360. | [STL](./projects/iphone-16-case/iphone-16-case.stl) |
 <!-- PROJECTS:END -->
 
 
