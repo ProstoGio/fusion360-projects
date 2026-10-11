@@ -28,6 +28,7 @@ projects/
 |---|---|---|
 | [Impossible Cube](./projects/impossible-cube) | A 3D-printed model of Escher's impossible cube illusion, my first Fusion 360 project. | [STL](./projects/impossible-cube/impossible-cube.stl) |
 | [iPhone 16 Case](./projects/iphone-16-case) | A 3D-printable protective case designed for the iPhone 16 using Autodesk Fusion 360. | [STL](./projects/iphone-16-case/iphone-16-case.stl) |
+| [Samsung Galaxy Buds 2 Case](./projects/samsung-galaxy-buds-2-case) | A protective 3D-printable case model designed for the Samsung Galaxy Buds 2 charging enclosure. | [STL](./projects/samsung-galaxy-buds-2-case/Configuration 1.stl) |
 | [Simple Footwear](./projects/simple-footwear) | A miniature footwear model created as a practice exercise in Autodesk Fusion 360. | [STL](./projects/simple-footwear/simple-footwear.stl) |
 <!-- PROJECTS:END -->
 
