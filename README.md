@@ -13,9 +13,9 @@ Each project lives in its own folder under `projects/`:
 ```
 projects/
 └── project-name/
-    ├── model.stl        → interactive preview (renders inline on GitHub)
-    ├── model.step        → editable, tool-agnostic CAD format
-    ├── render.png         → screenshots or turntable renders
+    ├── project-name.stl        → interactive preview (renders inline on GitHub)
+    ├── project-name.step        → editable, tool-agnostic CAD format
+    ├── Render.png         → screenshots or turntable renders
     └── README.md         → design notes, techniques, and print details
 ```
 
