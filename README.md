@@ -26,6 +26,7 @@ projects/
 <!-- PROJECTS:START -->
 | Project | Description | Preview |
 |---|---|---|
+| [Golden Mug](./projects/golden-mug) | A 3D-printable model of a mug featuring an embossed "JinJii" logo and an integrated handle. | [STL](./projects/golden-mug/golden-mug.stl) |
 | [Impossible Cube](./projects/impossible-cube) | A 3D-printed model of Escher's impossible cube illusion, my first Fusion 360 project. | [STL](./projects/impossible-cube/impossible-cube.stl) |
 | [iPhone 16 Case](./projects/iphone-16-case) | A 3D-printable protective case designed for the iPhone 16 using Autodesk Fusion 360. | [STL](./projects/iphone-16-case/iphone-16-case.stl) |
 | [Samsung Galaxy Buds 2 Case](./projects/samsung-galaxy-buds-2-case) | A protective 3D-printable case model designed for the Samsung Galaxy Buds 2 charging enclosure. | [STL](./projects/samsung-galaxy-buds-2-case/samsung-galaxy-buds-2-case.stl) |
